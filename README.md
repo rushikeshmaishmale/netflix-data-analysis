@@ -31,39 +31,39 @@ This project performs data cleaning, exploratory data analysis (EDA), and visual
 
 ### Movies vs TV Shows
 
-![Movies vs TV Shows](outputs/graphs/movies_vs_tvshows.png)
+![Movies vs TV Shows](movies_vs_tvshows.png)
 
 ### Top Countries
 
-![Top Countries](outputs/graphs/top_countries.png)
+![Top Countries](top_countries.png)
 
 ### Ratings Distribution
 
-![Ratings](outputs/graphs/ratings.png)
+![Ratings](ratings.png)
 
 ### Content Added Over Years
 
-![Years](outputs/graphs/content_over_years.png)
+![Years](content_over_years.png)
 
 ### Top Genres
 
-![Genres](outputs/graphs/top_genres.png)
+![Genres](top_genres.png)
 
 ### Top Directors
 
-![Directors](outputs/graphs/top_directors.png)
+![Directors](top_directors.png)
 
 ### Monthly Releases
 
-![Monthly](outputs/graphs/monthly_releases.png)
+![Monthly](monthly_releases.png)
 
 ### Genres WordCloud
 
-![WordCloud](outputs/graphs/wordcloud_genres.png)
+![WordCloud](wordcloud_genres.png)
 
 ### Heatmap by Year
 
-![Heatmap](outputs/graphs/heatmap_content_year.png)
+![Heatmap](heatmap_content_year.png)
 
 ---
 
