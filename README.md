@@ -65,6 +65,14 @@ This project performs data cleaning, exploratory data analysis (EDA), and visual
 
 ![Heatmap](heatmap_content_year.png)
 
+### Movie Duration
+
+![Heatmap](movie_duration.png)
+
+### Word Cloud Genres
+
+![Heatmap](wordcloud_genres.png)
+
 ---
 
 ## 🧠 Key Insights
